@@ -26,3 +26,6 @@ React + Redux Toolkit application to manage user points, activities, rewards, an
 npm install
 npx json-server --watch db.json --port 3001
 npm start
+
+## Deployment Link
+[Click here to view the deployed project](https://madhavi516.github.io/reward-dashboard)
