@@ -1,0 +1,13 @@
+{
+    "users": [
+      { "id": 1, "name": "John", "points": 150 },
+      { "id": 2, "name": "Jane", "points": 250 }
+    ],
+    "activities": [
+      { "id": 1, "description": "Completed Task", "points": 20 }
+    ],
+    "rewards": [
+      { "id": 1, "name": "Amazon Gift Card", "points": 100 },
+      { "id": 2, "name": "Netflix Subscription", "points": 300 }
+    ]
+  }
