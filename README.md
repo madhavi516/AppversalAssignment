@@ -4,13 +4,22 @@
 React + Redux Toolkit application to manage user points, activities, rewards, and admin analytics with role-based authentication.
 
 ## Features
-✅ User Management & Points  
-✅ Activity Logging  
-✅ Rewards Marketplace  
-✅ Admin Dashboard & Analytics  
-✅ Role-based Authentication (Admin/User)  
-✅ JSON Server API Mock  
-✅ Responsive UI with Styled Components  
+1. User Management & Points  
+2. Activity Logging  
+3. Rewards Marketplace  
+4. Admin Dashboard & Analytics  
+5. Role-based Authentication (Admin/User)  
+6. JSON Server API Mock  
+7. Responsive UI with Styled Components  
+
+
+## Tech Stack
+-> React JS 
+-> Redux Toolkit 
+-> React Router DOM 
+-> Styled Components
+-> JSON Server (API Mock)
+-> JavaScript (Es6+)
 
 ## Setup
 ```bash
